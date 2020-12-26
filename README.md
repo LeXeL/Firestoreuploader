@@ -1,9 +1,10 @@
 # Firestoreuploader
-Upload data to your firebase project 
+
+Upload data to your firebase project
 
 # How To:
-- First you need to copy your firebase project credentials in the firebase.json file
-follow instruction here: https://firebase.google.com/docs/admin/setup#initialize-sdk
-- Set your data in the data.json file
-- In index.js change collectionKey to the name of the collection you want to upload to.
 
+- Create a **_firebase.json_** file with your firebase project credentials
+  follow instruction here: https://firebase.google.com/docs/admin/setup#initialize-sdk
+- Set your data in the **_data.json_** file
+- In index.js change **_collectionKey_** to the name of the collection you want to upload to.
