@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Plan Basico P",
+        "rate": 2.5,
+        "subsidiary": 1,
+        "calculateVolumetric": true,
+        "isPublic": true
+    },
+    {
+        "name": "Plan Cero Volumen P",
+        "rate": 3.5,
+        "subsidiary": 1,
+        "calculateVolumetric": false,
+        "isPublic": true
+    },
+    {
+        "name": "Plan Business P",
+        "rate": 2,
+        "subsidiary": 1,
+        "calculateVolumetric": false,
+        "isPublic": false
+    },
+    {
+        "name": "Plan F&F P",
+        "rate": 2,
+        "subsidiary": 1,
+        "calculateVolumetric": false,
+        "isPublic": false
+    },
+    {
+        "name": "Plan Marketing P",
+        "rate": 1.56,
+        "subsidiary": 1,
+        "calculateVolumetric": false,
+        "isPublic": false
+    }
+]
